@@ -1,0 +1,2 @@
+# my_first_django_project
+Learning Django_from_the_scratch
